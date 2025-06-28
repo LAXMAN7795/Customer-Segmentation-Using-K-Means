@@ -34,7 +34,7 @@ Cluster customers into groups using K-Means Clustering based on the following fe
 - 2D Scatter Plot: Income vs. Spending colored by cluster.
 ![image](https://github.com/LAXMAN7795/Customer-Segmentation-Using-K-Means/blob/b791cc9af662f8c24ae4a53558ddeaa76c2774a1/output/customer_segmentation.png)
 - 3D Scatter Plot: Age, Income, and Spending with cluster coloring.
-![image]()
+![image](https://github.com/LAXMAN7795/Customer-Segmentation-Using-K-Means/blob/c27764ca7f5b3493795644b7ba042d3639675449/output/3d_customer_segmentation.png)
 
 ## 📌 Key Findings / Conclusion
 Four distinct customer segments were identified:
